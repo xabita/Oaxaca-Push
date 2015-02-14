@@ -14,6 +14,30 @@
 		264FCEFD1A85996D00841587 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 264FCEFC1A85996D00841587 /* Images.xcassets */; };
 		264FCF001A85996D00841587 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 264FCEFE1A85996D00841587 /* LaunchScreen.xib */; };
 		264FCF0C1A85996D00841587 /* Oaxaca_PushTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 264FCF0B1A85996D00841587 /* Oaxaca_PushTests.m */; };
+		264FCF371A85B97800841587 /* NSDate+RFC1123.html in Resources */ = {isa = PBXBuildFile; fileRef = 264FCF1A1A85B97800841587 /* NSDate+RFC1123.html */; };
+		264FCF381A85B97800841587 /* NSString+GTMNSStringHTMLAdditions.html in Resources */ = {isa = PBXBuildFile; fileRef = 264FCF1B1A85B97800841587 /* NSString+GTMNSStringHTMLAdditions.html */; };
+		264FCF391A85B97800841587 /* PushNotificationManager.html in Resources */ = {isa = PBXBuildFile; fileRef = 264FCF1D1A85B97800841587 /* PushNotificationManager.html */; };
+		264FCF3A1A85B97800841587 /* PWNetworkEngine.html in Resources */ = {isa = PBXBuildFile; fileRef = 264FCF1E1A85B97800841587 /* PWNetworkEngine.html */; };
+		264FCF3B1A85B97800841587 /* PWNetworkOperation.html in Resources */ = {isa = PBXBuildFile; fileRef = 264FCF1F1A85B97800841587 /* PWNetworkOperation.html */; };
+		264FCF3C1A85B97800841587 /* PWReachability.html in Resources */ = {isa = PBXBuildFile; fileRef = 264FCF201A85B97800841587 /* PWReachability.html */; };
+		264FCF3D1A85B97800841587 /* PWTags.html in Resources */ = {isa = PBXBuildFile; fileRef = 264FCF211A85B97800841587 /* PWTags.html */; };
+		264FCF3E1A85B97800841587 /* PWBeaconAction.html in Resources */ = {isa = PBXBuildFile; fileRef = 264FCF231A85B97800841587 /* PWBeaconAction.html */; };
+		264FCF3F1A85B97800841587 /* PWSupportedOrientations.html in Resources */ = {isa = PBXBuildFile; fileRef = 264FCF241A85B97800841587 /* PWSupportedOrientations.html */; };
+		264FCF401A85B97800841587 /* styles.css in Resources */ = {isa = PBXBuildFile; fileRef = 264FCF261A85B97800841587 /* styles.css */; };
+		264FCF411A85B97800841587 /* stylesPrint.css in Resources */ = {isa = PBXBuildFile; fileRef = 264FCF271A85B97800841587 /* stylesPrint.css */; };
+		264FCF421A85B97800841587 /* hierarchy.html in Resources */ = {isa = PBXBuildFile; fileRef = 264FCF281A85B97800841587 /* hierarchy.html */; };
+		264FCF431A85B97800841587 /* button_bar_background.png in Resources */ = {isa = PBXBuildFile; fileRef = 264FCF2A1A85B97800841587 /* button_bar_background.png */; };
+		264FCF441A85B97800841587 /* disclosure.png in Resources */ = {isa = PBXBuildFile; fileRef = 264FCF2B1A85B97800841587 /* disclosure.png */; };
+		264FCF451A85B97800841587 /* disclosure_open.png in Resources */ = {isa = PBXBuildFile; fileRef = 264FCF2C1A85B97800841587 /* disclosure_open.png */; };
+		264FCF461A85B97800841587 /* library_background.png in Resources */ = {isa = PBXBuildFile; fileRef = 264FCF2D1A85B97800841587 /* library_background.png */; };
+		264FCF471A85B97800841587 /* title_background.png in Resources */ = {isa = PBXBuildFile; fileRef = 264FCF2E1A85B97800841587 /* title_background.png */; };
+		264FCF481A85B97800841587 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 264FCF2F1A85B97800841587 /* index.html */; };
+		264FCF491A85B97800841587 /* PushNotificationDelegate.html in Resources */ = {isa = PBXBuildFile; fileRef = 264FCF311A85B97800841587 /* PushNotificationDelegate.html */; };
+		264FCF4A1A85B97800841587 /* Pushwoosh.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 264FCF331A85B97800841587 /* Pushwoosh.framework */; };
+		264FCF4B1A85B97800841587 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 264FCF341A85B97800841587 /* LICENSE */; };
+		264FCF4C1A85B97800841587 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 264FCF351A85B97800841587 /* README.md */; };
+		264FCF4D1A85B97800841587 /* VERSION.md in Sources */ = {isa = PBXBuildFile; fileRef = 264FCF361A85B97800841587 /* VERSION.md */; };
+		264FCF4F1A85BB3600841587 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 264FCF4E1A85BB3600841587 /* MobileCoreServices.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +64,30 @@
 		264FCF051A85996D00841587 /* Oaxaca-PushTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Oaxaca-PushTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		264FCF0A1A85996D00841587 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		264FCF0B1A85996D00841587 /* Oaxaca_PushTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Oaxaca_PushTests.m; sourceTree = "<group>"; };
+		264FCF1A1A85B97800841587 /* NSDate+RFC1123.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = "NSDate+RFC1123.html"; sourceTree = "<group>"; };
+		264FCF1B1A85B97800841587 /* NSString+GTMNSStringHTMLAdditions.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = "NSString+GTMNSStringHTMLAdditions.html"; sourceTree = "<group>"; };
+		264FCF1D1A85B97800841587 /* PushNotificationManager.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PushNotificationManager.html; sourceTree = "<group>"; };
+		264FCF1E1A85B97800841587 /* PWNetworkEngine.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PWNetworkEngine.html; sourceTree = "<group>"; };
+		264FCF1F1A85B97800841587 /* PWNetworkOperation.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PWNetworkOperation.html; sourceTree = "<group>"; };
+		264FCF201A85B97800841587 /* PWReachability.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PWReachability.html; sourceTree = "<group>"; };
+		264FCF211A85B97800841587 /* PWTags.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PWTags.html; sourceTree = "<group>"; };
+		264FCF231A85B97800841587 /* PWBeaconAction.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PWBeaconAction.html; sourceTree = "<group>"; };
+		264FCF241A85B97800841587 /* PWSupportedOrientations.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PWSupportedOrientations.html; sourceTree = "<group>"; };
+		264FCF261A85B97800841587 /* styles.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
+		264FCF271A85B97800841587 /* stylesPrint.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = stylesPrint.css; sourceTree = "<group>"; };
+		264FCF281A85B97800841587 /* hierarchy.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = hierarchy.html; sourceTree = "<group>"; };
+		264FCF2A1A85B97800841587 /* button_bar_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_bar_background.png; sourceTree = "<group>"; };
+		264FCF2B1A85B97800841587 /* disclosure.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = disclosure.png; sourceTree = "<group>"; };
+		264FCF2C1A85B97800841587 /* disclosure_open.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = disclosure_open.png; sourceTree = "<group>"; };
+		264FCF2D1A85B97800841587 /* library_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = library_background.png; sourceTree = "<group>"; };
+		264FCF2E1A85B97800841587 /* title_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = title_background.png; sourceTree = "<group>"; };
+		264FCF2F1A85B97800841587 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = index.html; sourceTree = "<group>"; };
+		264FCF311A85B97800841587 /* PushNotificationDelegate.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = PushNotificationDelegate.html; sourceTree = "<group>"; };
+		264FCF331A85B97800841587 /* Pushwoosh.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Pushwoosh.framework; sourceTree = "<group>"; };
+		264FCF341A85B97800841587 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		264FCF351A85B97800841587 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		264FCF361A85B97800841587 /* VERSION.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = VERSION.md; sourceTree = "<group>"; };
+		264FCF4E1A85BB3600841587 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +95,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				264FCF4F1A85BB3600841587 /* MobileCoreServices.framework in Frameworks */,
+				264FCF4A1A85B97800841587 /* Pushwoosh.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +113,8 @@
 		264FCEE31A85996D00841587 = {
 			isa = PBXGroup;
 			children = (
+				264FCF4E1A85BB3600841587 /* MobileCoreServices.framework */,
+				264FCF171A85B97800841587 /* pushwoosh-ios-sdk-master */,
 				264FCEEE1A85996D00841587 /* Oaxaca-Push */,
 				264FCF081A85996D00841587 /* Oaxaca-PushTests */,
 				264FCEED1A85996D00841587 /* Products */,
@@ -117,6 +169,100 @@
 				264FCF0A1A85996D00841587 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		264FCF171A85B97800841587 /* pushwoosh-ios-sdk-master */ = {
+			isa = PBXGroup;
+			children = (
+				264FCF181A85B97800841587 /* Documentation */,
+				264FCF321A85B97800841587 /* Framework */,
+				264FCF341A85B97800841587 /* LICENSE */,
+				264FCF351A85B97800841587 /* README.md */,
+				264FCF361A85B97800841587 /* VERSION.md */,
+			);
+			path = "pushwoosh-ios-sdk-master";
+			sourceTree = "<group>";
+		};
+		264FCF181A85B97800841587 /* Documentation */ = {
+			isa = PBXGroup;
+			children = (
+				264FCF191A85B97800841587 /* Categories */,
+				264FCF1C1A85B97800841587 /* Classes */,
+				264FCF221A85B97800841587 /* Constants */,
+				264FCF251A85B97800841587 /* css */,
+				264FCF281A85B97800841587 /* hierarchy.html */,
+				264FCF291A85B97800841587 /* img */,
+				264FCF2F1A85B97800841587 /* index.html */,
+				264FCF301A85B97800841587 /* Protocols */,
+			);
+			path = Documentation;
+			sourceTree = "<group>";
+		};
+		264FCF191A85B97800841587 /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				264FCF1A1A85B97800841587 /* NSDate+RFC1123.html */,
+				264FCF1B1A85B97800841587 /* NSString+GTMNSStringHTMLAdditions.html */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		264FCF1C1A85B97800841587 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				264FCF1D1A85B97800841587 /* PushNotificationManager.html */,
+				264FCF1E1A85B97800841587 /* PWNetworkEngine.html */,
+				264FCF1F1A85B97800841587 /* PWNetworkOperation.html */,
+				264FCF201A85B97800841587 /* PWReachability.html */,
+				264FCF211A85B97800841587 /* PWTags.html */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		264FCF221A85B97800841587 /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				264FCF231A85B97800841587 /* PWBeaconAction.html */,
+				264FCF241A85B97800841587 /* PWSupportedOrientations.html */,
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		264FCF251A85B97800841587 /* css */ = {
+			isa = PBXGroup;
+			children = (
+				264FCF261A85B97800841587 /* styles.css */,
+				264FCF271A85B97800841587 /* stylesPrint.css */,
+			);
+			path = css;
+			sourceTree = "<group>";
+		};
+		264FCF291A85B97800841587 /* img */ = {
+			isa = PBXGroup;
+			children = (
+				264FCF2A1A85B97800841587 /* button_bar_background.png */,
+				264FCF2B1A85B97800841587 /* disclosure.png */,
+				264FCF2C1A85B97800841587 /* disclosure_open.png */,
+				264FCF2D1A85B97800841587 /* library_background.png */,
+				264FCF2E1A85B97800841587 /* title_background.png */,
+			);
+			path = img;
+			sourceTree = "<group>";
+		};
+		264FCF301A85B97800841587 /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				264FCF311A85B97800841587 /* PushNotificationDelegate.html */,
+			);
+			path = Protocols;
+			sourceTree = "<group>";
+		};
+		264FCF321A85B97800841587 /* Framework */ = {
+			isa = PBXGroup;
+			children = (
+				264FCF331A85B97800841587 /* Pushwoosh.framework */,
+			);
+			path = Framework;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,9 +345,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				264FCF481A85B97800841587 /* index.html in Resources */,
+				264FCF3A1A85B97800841587 /* PWNetworkEngine.html in Resources */,
+				264FCF461A85B97800841587 /* library_background.png in Resources */,
+				264FCF3E1A85B97800841587 /* PWBeaconAction.html in Resources */,
 				264FCEFB1A85996D00841587 /* Main.storyboard in Resources */,
+				264FCF411A85B97800841587 /* stylesPrint.css in Resources */,
+				264FCF491A85B97800841587 /* PushNotificationDelegate.html in Resources */,
+				264FCF451A85B97800841587 /* disclosure_open.png in Resources */,
+				264FCF3F1A85B97800841587 /* PWSupportedOrientations.html in Resources */,
+				264FCF401A85B97800841587 /* styles.css in Resources */,
+				264FCF441A85B97800841587 /* disclosure.png in Resources */,
+				264FCF3D1A85B97800841587 /* PWTags.html in Resources */,
 				264FCF001A85996D00841587 /* LaunchScreen.xib in Resources */,
+				264FCF4B1A85B97800841587 /* LICENSE in Resources */,
+				264FCF381A85B97800841587 /* NSString+GTMNSStringHTMLAdditions.html in Resources */,
+				264FCF3C1A85B97800841587 /* PWReachability.html in Resources */,
+				264FCF3B1A85B97800841587 /* PWNetworkOperation.html in Resources */,
+				264FCF431A85B97800841587 /* button_bar_background.png in Resources */,
+				264FCF371A85B97800841587 /* NSDate+RFC1123.html in Resources */,
+				264FCF471A85B97800841587 /* title_background.png in Resources */,
 				264FCEFD1A85996D00841587 /* Images.xcassets in Resources */,
+				264FCF421A85B97800841587 /* hierarchy.html in Resources */,
+				264FCF391A85B97800841587 /* PushNotificationManager.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -221,6 +387,8 @@
 			files = (
 				264FCEF81A85996D00841587 /* ViewController.m in Sources */,
 				264FCEF51A85996D00841587 /* AppDelegate.m in Sources */,
+				264FCF4D1A85B97800841587 /* VERSION.md in Sources */,
+				264FCF4C1A85B97800841587 /* README.md in Sources */,
 				264FCEF21A85996D00841587 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -343,9 +511,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/pushwoosh-ios-sdk-master/Framework",
+				);
 				INFOPLIST_FILE = "Oaxaca-Push/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "02dc0397-005a-4b47-9545-2e0ee40cab63";
 			};
 			name = Debug;
 		};
@@ -353,9 +527,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/pushwoosh-ios-sdk-master/Framework",
+				);
 				INFOPLIST_FILE = "Oaxaca-Push/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "02dc0397-005a-4b47-9545-2e0ee40cab63";
 			};
 			name = Release;
 		};
@@ -412,6 +592,7 @@
 				264FCF111A85996D00841587 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		264FCF121A85996D00841587 /* Build configuration list for PBXNativeTarget "Oaxaca-PushTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +601,7 @@
 				264FCF141A85996D00841587 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
